@@ -9,8 +9,8 @@ I recently finished my BSc in Computer Science with a specialisation in Machine 
 * 🌍  I'm based in Cape Town, South Africa but can work remotely.
 * 🖥️  See my portfolio at [ross-holland.com](http://ross-holland.com)
 * ✉️  You can contact me at [ross.holland.work@gmail.com](mailto:ross.holland.work@gmail.com)
-* 🧠  I'm learning Power BI & improving my feature engineering skills
-* ⚡  When I'm not running code & queries, Im running ultra marathons🏃🏻‍♂️
+* 🧠  I am currenlty learning AWS Cloud, Feature Engineering Techniques and Data viz on Power BI
+* ⚡  When I'm not running code & queries, I'm running ultra marathons🏃🏻‍♂️
 
 
 
