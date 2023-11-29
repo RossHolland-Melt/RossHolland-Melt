@@ -7,7 +7,7 @@ Data Scientist and Machine Learning Engineer
 I recently finished my BSc in Computer Science with a specialisation in Machine Learning & Artificial Intelligence. I am a Charismatic, hard-working and passionate individual with a love for turning chaotic data into usable insights and predictions! Anything I don't know, I will always find a way to learn so connect with me today and let's get working 💪🏻
 
 * 🌍  I'm based in Cape Town, South Africa but can work remotely.
-* 🖥️  See my portfolio at [ross-holland.com](http://ross-holland.com)  - > This is a work in progress (expected to finish 25 November)
+* 🖥️  See my portfolio at [ross-holland.com](http://ross-holland.com)  - > This is a work in progress (expected to finish 15 December)
 * ✉️  You can contact me at [ross.holland.work@gmail.com](mailto:ross.holland.work@gmail.com)
 * 🧠  I am currently learning AWS Cloud ☁️, Hugging Face Models 🤗 and a bit of Power BI 📊
 * ⚡  When I'm not running code & queries, I'm running ultra marathons🏃🏻‍♂️
