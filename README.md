@@ -9,8 +9,8 @@ I am a Charismatic, hard-working and passionate individual with a love for turni
 * 🌍  I'm based in Cape Town, South Africa.
 * 🖥️  See my portfolio at (Work in progress).
 * ✉️  You can contact me at [ross.holland.work@gmail.com](mailto:ross.holland.work@gmail.com)
-* 🧠  I am currently learning AWS Cloud ☁ and LlmOps📊
-* ⚡  When I'm not running code & queries, I'm running ultra marathons🏃🏻‍♂️
+* 🧠  I am currently learning AWS Cloud ☁ and LlmOps📊 , Terraform and CI/CD🧑🏻‍🎨
+* * ⚡  When I'm not running code & queries, I'm running ultra marathons🏃🏻‍♂️
 
 
 
