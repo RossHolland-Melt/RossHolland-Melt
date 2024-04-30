@@ -9,7 +9,7 @@ I recently finished my BSc in Computer Science with a specialisation in Machine 
 * 🌍  I'm based in Cape Town, South Africa but can work remotely.
 * 🖥️  See my portfolio at [ross-holland.com](http://ross-holland.com)  - > This is a work in progress (expected to finish in March)
 * ✉️  You can contact me at [ross.holland.work@gmail.com](mailto:ross.holland.work@gmail.com)
-* 🧠  I am currently learning AWS Cloud ☁️, Hugging Face Models 🤗 and a bit of Power BI 📊
+* 🧠  I am currently learning AWS Cloud ☁ and LLMops📊
 * ⚡  When I'm not running code & queries, I'm running ultra marathons🏃🏻‍♂️
 
 
