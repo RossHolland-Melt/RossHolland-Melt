@@ -1,7 +1,7 @@
 Hi 👋 - My name is Ross Holland
 ====================================================================================================================================
 
-Applied AI Engineer & Consultant
+Applied AI Engineer & Consultant @ Nimble Group 📈
 ---------------------------------------------
 
 I am a Charismatic, hard-working and passionate individual with a love for turning chaotic challenges into business-transforming AI solutions! Anything I don't know, I will always find a way to learn. Connect with me today and let's get working 💪🏻
